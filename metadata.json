@@ -1,0 +1,6 @@
+{
+  "name": "OuraAI video translator",
+  "description": "Translate video audio into different languages using AI while maintaining video quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

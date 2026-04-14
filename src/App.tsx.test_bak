@@ -1,0 +1,10 @@
+import React from "react";
+
+export default function App() {
+  return (
+    <div style={{ padding: "20px", color: "white", backgroundColor: "black", minHeight: "100vh" }}>
+      <h1>App is loading...</h1>
+      <p>If you see this, the React app is working.</p>
+    </div>
+  );
+}
